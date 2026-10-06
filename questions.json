@@ -1,0 +1,147 @@
+{
+  "heading": "G6_Area And Perimeter Real Life Word Problems",
+  "topics": [
+    {
+      "heading": "Area And Perimeter Real Life Word Problems",
+      "questions": [
+  
+ 
+  {
+    "questionNo": 1,
+    "question": [
+      "A bedroom wall is<b> 9 m </b>long and <b>4 m </b>high. One litre of paint can cover <b>6 m².</b><br><img src='./assests/images/question/12.png' width = '35%'><br>How many litres of paint should be bought to give the wall one coat?<br>Answer: ______ litres"
+    ],
+    "input": [""],
+    "answer": ["6"]
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "A farmer has a rectangular horse paddock that is <b>22 m </b>long and <b>16 m </b>wide.<br><img src='./assests/images/question/13.png' width = '35%'><br>How many metres of fencing are needed to completely enclose the paddock?<br>Answer: ______ m"
+    ],
+    "input": [""],
+    "answer": ["76"]
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A triangular garden has a base of <b>18 m </b>and a perpendicular height of <b>10 m </b>. Fertiliser costs $5 per square metre.<br><img src='./assests/images/question/14.png' width = '35%'><br>How much will it cost to cover the garden with fertiliser?<br>Answer: $______"
+    ],
+    "input": [""],
+    "answer": ["450"]
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A square picnic blanket has sides measuring<b> 3.5 m </b>. Decorative lace is sewn all the way around the edge.<br><img src='./assests/images/question/15.png' width = '35%'><br>How much lace is needed?<br>Answer: ______ m"
+    ],
+    "input": [""],
+    "answer": ["14"]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "A wooden fence is to be built around the outside of the given parallelogram-shaped garden. The garden has side lengths of 18 m and 9 m.<br><img src='./assests/images/question/16.png' width = '35%'><br>How many metres of fencing are required?<br>Answer: ______ m"
+    ],
+    "input": [""],
+    "answer": ["54"]
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A rectangular living room floor measures <b>9 m </b>by <b>6 m </b>. Wooden flooring costs <b>$25 per square metre.</b><br>Mr Wilson has a budget of $1,300 to buy the flooring.<br>Will his budget be enough?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A rectangular whiteboard measures <b>3.2 m </b>by <b>1.5 m </b>. Decorative ribbon will be placed around the edge<br><b><i>Noah says that 9.4 m of ribbon is needed.<br>Emma says that 8.8 m of ribbon is needed.</b></i><br>Who is correct?"
+    ],
+    "options": [
+      { "text": "Noah" },
+      { "text": "Emma" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A square courtyard has sides measuring <b>15 m </b>. Jack has <b>58 m </b>of fencing to place around the courtyard.<br>Does Jack have enough fencing?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A rectangular warehouse roof measures<b> 15 m by 10 m </b>. Solar panels cost <b>$180 per square metre.</b><br><b><i>Sophia says it will cost $27,000 to cover the roof with solar panels.<br>Oliver says it will cost $25,200 to cover the roof with solar panels</b></i>.<br>Who is correct?"
+    ],
+    "options": [
+      { "text": "Sophia" },
+      { "text": "Oliver" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A triangular shade sail has a base of <b>14 m </b>and a perpendicular <b>height of 8 m </b>. Waterproof fabric costs <b>$20 per square metre.</b><br>The event organiser has <b>$1,000 </b> to buy the fabric.<br>Is this enough money?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A rectangular school library measures <b>24 m </b>long and <b>18 m </b>wide. Decorative lights are hung all around the walls.<br>The school bought <b>90 m </b>of lights.<br>Will all of the lights be used? If not, how many metres will be left over?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No, 2 m will be left over." },
+      { "text": "No, 6 m will be left over." },
+      { "text": "No, 10 m will be left over." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "The following two rectangles have the same area.<br><img src='./assests/images/question/17.png' width = '35%'><br>The missing side is ______ cm."
+    ],
+    "input": [""],
+    "answer": ["6"]
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "The following two rectangular gardens have the same area.<br><img src='./assests/images/question/18.png' width = '35%'><br>The missing side is ______ m."
+    ],
+    "input": [""],
+    "answer": ["4"]
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "The following two rectangular fields have the same area.<br><img src='./assests/images/question/19.png' width = '35%'><br>The missing side is ______ m."
+    ],
+    "input": [""],
+    "answer": ["200"]
+  }
+
+
+
+      ]
+    }
+  ]
+}
